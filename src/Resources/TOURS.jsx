@@ -10,8 +10,8 @@ export const TOURS = [
                 "neighborhood walks through the city's historic heart as well as quieter moment" +
                 "s to slow down and savor the city's intimate cafés, colorful markets, and joie" +
                 " de vivre. Join us for the Best of Paris in 7 Days!",
-        price: 1995,
-        img: ''
+        price: '$1,995',
+        img: 'https://www.course-api.com/images/tours/tour-1.jpeg'
     }, {
         id: 1,
         title: 'Best Of Ireland In 14 Days Tour',
@@ -22,8 +22,8 @@ export const TOURS = [
                 "city of Belfast. All along the way, Rick's guides will share their stories to " +
                 "draw you in to the Emerald Isle, and the friendliness of the people will surel" +
                 "y steal your heart. Join us for the Best of Ireland in 14 Days!",
-        price: 3895,
-        img: ''
+        price: '$3,895',
+        img: 'https://www.course-api.com/images/tours/tour-2.jpeg'
     }, {
         id: 2,
         title: 'Best Of Salzburg & Vienna In 8 Days Tour',
@@ -34,8 +34,8 @@ export const TOURS = [
                 "stic Melk, the blue Danube, and royal Vienna — with cozy villages and alpine v" +
                 "istas all along the way. Join us for the Best of Munich, Salzburg & Vienna in " +
                 "8 Days!",
-        price: 2695,
-        img: ''
+        price: '$2,695',
+        img: 'https://www.course-api.com/images/tours/tour-3.jpeg'
     }, {
         id: 3,
         title: 'Best Of Rome In 7 Days Tour',
@@ -47,8 +47,8 @@ export const TOURS = [
                 "llery. You'll also enjoy today's Rome, with neighborhood walking tours, memora" +
                 "ble restaurants, and time to explore on your own. Join us for the Best of Rome" +
                 " in 7 Days!",
-        price: 2095,
-        img: ''
+        price: '$2,095',
+        img: 'https://www.course-api.com/images/tours/tour-4.jpeg'
     }, {
         id: 4,
         title: 'Best Of Poland In 10 Days Tour',
@@ -59,7 +59,7 @@ export const TOURS = [
                 "w, the spiritual Jasna Góra Monastery, and charming Kraków — Poland's finest c" +
                 "ity. In this land of surprises — so trendy and hip, yet steeped in history — t" +
                 "here's so much to discover. Join us for the Best of Poland in 10 Days!",
-        price: 2595,
-        img: ''
+        price: '$2,595',
+        img: 'https://www.course-api.com/images/tours/tour-5.jpeg'
     }
 ]

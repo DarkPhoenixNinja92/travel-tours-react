@@ -40,3 +40,31 @@
 .read-the-docs {
   color: #888;
 }
+
+.cost {
+  position: absolute;
+  background-color: seagreen;
+  color: #fff;
+  width: 6%;
+  left: 63.6vw;
+}
+
+.cost-0 {
+  top: 3em;
+}
+
+.cost-1 {
+  top: 74.5vh;
+}
+
+.cost-2 {
+  top: 145.2vh;
+}
+
+.cost-3 {
+  top: 277.7vh;
+}
+
+.cost-4 {
+  top: 348.5vh;
+}
